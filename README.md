@@ -93,7 +93,7 @@ sudo iptables -P FORWARD ACCEPT
 
 
 
-###**On the master node, do the following to set up the Spark cluster:**
+### **On the master node, do the following to set up the Spark cluster:**
 	
 Inside the clone of this repo on the master pi(riccardo) run the following commands: 
 ```
